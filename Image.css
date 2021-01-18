@@ -1,0 +1,46 @@
+img.align-left {
+    float: left;
+    margin-right: 50px;
+    font-size: 90%;}
+
+i {
+    font-size: 201%;
+    font-family: 'Courier New', Courier, monospace;
+    color: #000000;
+    margin-right: 4555px;}
+
+p {
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+    font-weight: bolder;
+}
+
+b {
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+    font-weight: bolder;
+}
+
+
+img.align-right {
+    float: left;
+    margin-left: 10px;}
+
+img.medium {
+    width: 555px;
+    height: 333px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
